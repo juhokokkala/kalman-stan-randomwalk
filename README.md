@@ -1,6 +1,6 @@
 ## Kalman filter style recursion to marginalize state variables to speed up Stan inference
 
-A demonstration of how a certain Stan (http://mc-stan.org) model can be made faster by marginalizing a conditionally linear-Gaussian part using a Kalman filter within Stan. A detailed description/documentation will soon appear in my blog. 
+A demonstration of how a certain Stan (http://mc-stan.org) model can be made faster by marginalizing a conditionally linear-Gaussian part using a Kalman filter within Stan. A detailed description/documentation is in my blog (http://www.juhokokkala.fi/blog/posts/kalman-filter-style-recursion-to-marginalize-state-variables-to-speed-up-stan-inference/)
 
 I expect the meaning of the files here to be rather clear after reading the blog post, so no extensive documentation here.
 
